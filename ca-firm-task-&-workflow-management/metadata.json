@@ -1,0 +1,8 @@
+{
+  "name": "CA Firm Task & Workflow Management",
+  "description": "Enterprise Task, Audit Workflow, Compliance Calendar, Timesheet, and Partner Governance Portal for Chartered Accountant Firms",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
